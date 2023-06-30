@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Trenda';
+    src: local('Trenda Light'), local('Trenda-Light'),
+    url('Trenda-Light.woff') format('woff'),
+    url('Trenda-Light.ttf') format('truetype'),
+    url('Trenda-Light.eot') format('eot');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trenda';
+    src: local('Trenda Bold'), local('Trenda-Bold'),
+    url('Trenda-Bold.woff') format('woff'),
+    url('Trenda-Bold.ttf') format('truetype'),
+    url('Trenda-Bold.eot') format('eot');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trenda';
+    src: local('Trenda Black'), local('Trenda-Black'),
+    url('Trenda-Black.woff') format('woff'),
+    url('Trenda-Black.ttf') format('truetype'),
+    url('Trenda-Black.eot') format('eot');
+    font-weight: 800;
+    font-style: normal;
+}
+  
